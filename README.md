@@ -9,15 +9,15 @@ Built by the [Shiko](https://shiko.vet) team.
 
 | With logo (blue) | Without logo (teal) |
 |---|---|
-| ![Blue with Shiko logo](priv/examples/example-blue-logo.png) | ![Teal without logo](priv/examples/example-teal-no-logo.png) |
+| ![Blue with Shiko logo](https://raw.githubusercontent.com/Leandro-Moreno/og_image_gen/main/priv/examples/example-blue-logo.png) | ![Teal without logo](https://raw.githubusercontent.com/Leandro-Moreno/og_image_gen/main/priv/examples/example-teal-no-logo.png) |
 
 | With logo (coral) | Without logo (dark) |
 |---|---|
-| ![Coral with Shiko logo](priv/examples/example-coral-logo.png) | ![Dark without logo](priv/examples/example-dark-no-logo.png) |
+| ![Coral with Shiko logo](https://raw.githubusercontent.com/Leandro-Moreno/og_image_gen/main/priv/examples/example-coral-logo.png) | ![Dark without logo](https://raw.githubusercontent.com/Leandro-Moreno/og_image_gen/main/priv/examples/example-dark-no-logo.png) |
 
 | Warning theme with logo |
 |---|
-| ![Warning with Shiko logo](priv/examples/example-warning-logo.png) |
+| ![Warning with Shiko logo](https://raw.githubusercontent.com/Leandro-Moreno/og_image_gen/main/priv/examples/example-warning-logo.png) |
 
 ## Features
 
